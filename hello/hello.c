@@ -7,7 +7,7 @@
 
 int main(void)
 {
-    /* print hello text in the console
+    /* print hello text in the console */
 	printf("Hello, word!\n");
 	printf("You are wonderfull!!\n");
 

@@ -1,4 +1,5 @@
 build/
 temp/
+*.log
 a.out
 *.o

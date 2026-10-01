@@ -16,5 +16,5 @@ int main(void)
    printf("sizeof unsigned int -> %zu\n", sizeof(ui));
    printf("INT_MIN             -> %d\n", INT_MIN);
    printf("INT_MAX             -> %d\n", INT_MAX);
-   printf("UINT_MAX            -> %d\n", UINT_MAX);
+   printf("UINT_MAX            -> %u\n", UINT_MAX);
 }
